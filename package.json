@@ -1,0 +1,15 @@
+{
+  "name": "BotKit",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "latest",
+    "botkit": "0.6.21",
+    "dotenv": "6.1.0",
+    "express": "4.16.4",
+    "lodash": "4.17.11",
+    "mongoose": "5.3.14",
+    "morgan": "1.9.1",
+    "uuid": "latest",
+    "winston": "^3.1.0"
+  }
+}

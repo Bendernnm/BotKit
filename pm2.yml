@@ -1,0 +1,7 @@
+apps:
+  - script: server.js
+    name: 'test-chat'
+    log_date_format: 'YYYY-MM-DD HH:mm Z'
+    error_file: 'test-chat-err.log'
+    out_file: 'test-chat-out.log'
+
